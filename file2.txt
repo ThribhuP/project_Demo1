@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-second push
-=======
 third push
->>>>>>> branch2
